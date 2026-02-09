@@ -129,7 +129,6 @@ Compatible with QGIS and other GIS platforms.
 - **Maarif Sariyev** — AI Engineer / Model Development  
 - **Ilahe** — Data Scientist  
 - **Nezrin** — Software Developer
-- 
 ---
 
 ## 📬 Contact
